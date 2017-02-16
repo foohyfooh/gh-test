@@ -1,0 +1,19 @@
+{
+  "name": "gh-test",
+  "version": "0.0.1",
+  "description": "Test Travis Deploy",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"working\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foohyfooh/gh-test.git"
+  },
+  "author": "Jonathan Herbert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foohyfooh/gh-test/issues"
+  },
+  "homepage": "https://github.com/foohyfooh/gh-test"
+}
