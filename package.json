@@ -4,7 +4,7 @@
   "description": "Test Travis Deploy",
   "main": "index.js",
   "scripts": {
-    "build": "cp index.html out/index.html"
+    "build": "cp index.html out/index.html && cp deploy_key.enc out/deploy_key.enc"
   },
   "repository": {
     "type": "git",
